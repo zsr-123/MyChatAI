@@ -1,0 +1,8 @@
+{
+  "model": "qwen:14b",
+  "temperature": 0.3,
+  "num_ctx": 4096,
+  "num_predict": 2048,
+  "max_history": 10,
+  "log_level": "INFO"
+}
